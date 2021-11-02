@@ -1,0 +1,18 @@
+source 'https://rubygems.org'
+
+group :development do
+gem 'debase', require: false
+gem 'pry-byebug', require: false
+gem 'rake', require: false
+gem 'ripper-tags', require: false
+gem 'ruby-debug-ide', require: false
+end
+
+gem 'capybara'
+gem 'cucumber'
+gem 'rspec'
+gem 'selenium-webdriver'
+gem 'site_prism'
+gem 'pry'
+gem 'rake'
+
